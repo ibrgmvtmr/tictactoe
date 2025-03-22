@@ -67,3 +67,14 @@ Execute: dotnet test TicTacToe.Tests
 3. Win condition detection (rows, columns, diagonals)
 4. Draw detection
 5. Save/Load functionality
+
+![image](https://github.com/user-attachments/assets/93dd64e6-dce5-4771-b9b5-fa74473c3005)
+![image](https://github.com/user-attachments/assets/18bd4b42-6de5-4c0e-953b-1c1dc840e4a3)
+![image](https://github.com/user-attachments/assets/eab0106b-3fd1-434a-90c4-30f59fd077d2)
+![image](https://github.com/user-attachments/assets/02947412-d2f1-4afa-8430-52f23adb4ffd)
+![image](https://github.com/user-attachments/assets/5b636873-0726-4203-a3b9-a0a4c6e19042)
+
+
+
+
+
