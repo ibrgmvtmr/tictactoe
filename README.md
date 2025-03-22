@@ -43,3 +43,27 @@ The save file is a plain text file with the following structure:
 X and O indicate player moves.
 
 A period (.) represents an empty cell.
+
+##🚀 Running the Game
+###Prerequisites:
+.NET 8 SDK or later
+
+###How to run:
+Open a terminal in the project root.
+
+Execute the following command:
+dotnet run --project TicTacToe
+
+##🧪 Running Tests
+The project includes unit tests for the core game logic using xUnit.
+
+###To run the tests:
+Open a terminal in the project root.
+Execute: dotnet test TicTacToe.Tests
+
+###Tests cover:
+1. Board initialization
+2. Turn alternation logic
+3. Win condition detection (rows, columns, diagonals)
+4. Draw detection
+5. Save/Load functionality
