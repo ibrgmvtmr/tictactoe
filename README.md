@@ -16,3 +16,30 @@ The project is structured using the **Model-View-Controller (MVC)** pattern and 
 - 🟢 Manual save via **S** key
 - 🟢 Highlight winning line on the board
 - 🟢 Unit tests with **xUnit**
+
+## 🗂 Project Structure
+TicTacToe/ ├──
+            Program.cs 
+            View (main menu, user input) 
+            GameController.cs 
+            Controller (game loop, turn handling)
+            TicTacToeGame.cs # Model (board logic, win checks, save/load) 
+            View.cs # View helpers (rendering, messages)
+            Save file (created during runtime) 
+└── TicTacToe.Tests/ # Unit tests (xUnit)
+
+## 💾 Save System
+
+### Save file location:
+The game saves progress to a plain text file named **`save.txt`** in the root directory.
+
+### Save file format:
+The save file is a plain text file with the following structure:
+<size> <row1> <row2> <row3> ... ```
+<size>: A single number representing the board size (e.g., 3 for a 3x3 board).
+
+<rowX>: Each subsequent line represents one row of the board.
+
+X and O indicate player moves.
+
+A period (.) represents an empty cell.
