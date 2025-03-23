@@ -74,6 +74,8 @@ Execute: dotnet test TicTacToe.Tests
 ![image](https://github.com/user-attachments/assets/02947412-d2f1-4afa-8430-52f23adb4ffd)
 ![image](https://github.com/user-attachments/assets/5b636873-0726-4203-a3b9-a0a4c6e19042)
 
+#### video explanation: [Uploading video.zip…]()
+
 
 
 
