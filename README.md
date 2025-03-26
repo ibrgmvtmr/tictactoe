@@ -75,6 +75,7 @@ Execute: dotnet test TicTacToe.Tests
 ![image](https://github.com/user-attachments/assets/5b636873-0726-4203-a3b9-a0a4c6e19042)
 
 #### video explanation: https://youtu.be/r7uh726YOVE?si=4J8fA0-NwIeOjNd6
+#### video builiding tit tac toe app from scratch: https://drive.google.com/file/d/151Guvq4ytJSryEDPahWxMHmVoHr9jE1J/view?usp=drivesdk
 
 
 
